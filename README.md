@@ -1,5 +1,5 @@
 - Hi, I’m @newluhux
-- I’m interested in Linux,C,Plan9
+- I’m interested in Linux,C,Plan9,Network,MUD Game
 - I’m currently learning C,Linux,ASM,Plan9,Network
 - I'm Using Slackware Linux, Guix System (linux-libre), 9front
 <!---
